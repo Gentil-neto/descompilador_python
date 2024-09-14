@@ -8,7 +8,7 @@ Este projeto é um script em Python para descompilar arquivos compilados `.pyc` 
 
 Antes de usar o script, certifique-se de que você tenha o seguinte instalado:
 
-- Python 3.x
+- Python > = 3.7 
 - Biblioteca `uncompyle6`
 
 Você pode instalar a biblioteca `uncompyle6` usando o `pip`:
