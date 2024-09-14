@@ -1,4 +1,4 @@
-# descompilador_python
+# Descompilador_python
 foi necessário criar um descompilador python para realizar a engenharia reversa e mapeamento das bibliotecas usadas na aplicação corporativa
 # Descompilador de Arquivos `.pyc`
 
